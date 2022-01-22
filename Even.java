@@ -8,5 +8,9 @@ public class Even
                     {
                              System.out.println("Number is Even");
                     }
+                    else
+                    {
+                           System.out.println("Number is Odd");
+                    }
            }
 }
